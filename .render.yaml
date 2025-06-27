@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: openai-proxy
+    env: php
+    plan: free
